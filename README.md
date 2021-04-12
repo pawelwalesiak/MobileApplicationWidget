@@ -1,7 +1,7 @@
 # MobileApplicationWidget
 PJATK android course
 
-The task is to create a Widget on the home screen (home screen), which should allow redirection to any website (default browser), display pictures / photos and functions to check passwords / songs.
+The task is to create a Widget on the home screen (home screen), which should allow redirection to any website (default browser), display pictures / photos..
 
 Functionality:
 - display any page in your default browser
